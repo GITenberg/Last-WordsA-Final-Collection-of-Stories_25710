@@ -1,0 +1,43 @@
+_repo: Last-WordsA-Final-Collection-of-Stories_25710
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Murphy, Hermann Dudley
+    alias: Murphy, H. D.
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '31524'
+    url: http://www.gutenberg.org/2009/agents/31524
+covers:
+- cover_type: archival
+  image_path: 25710-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ewing, Juliana Horatia Gatty
+    aliases:
+    - Ewing, J. H. (Juliana Horatia)
+    - Ewing, J.H.
+    birthdate: 1841
+    deathdate: 1885
+    gutenberg_agent_id: '1803'
+    url: http://www.gutenberg.org/2009/agents/1803
+    wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
+description: ''
+gutenberg_issued: '2008-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: Mary's meadow -- Letters from a little garden -- Snap-dragons --
+  Dandelion clocks -- The blind man and the talking dog -- So-so -- The Trinity flower
+  -- The kyrkegrim turned preacher -- Ladders to heaven -- Sunflowers and a rushlight
+  -- Tiny's tricks and Toby's tricks -- The owl in the ivy bush.
+title: 'Last Words: A Final Collection of Stories'
+url: http://www.gutenberg.org/ebooks/25710
